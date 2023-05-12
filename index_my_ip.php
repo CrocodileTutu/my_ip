@@ -10,7 +10,7 @@
 <head>
 	<title>My IP</title>
 	<meta charset="UTF-8">
-    <link href="style_my_ip.css" rel="stylesheet">
+    <link href="style_my_ip" rel="stylesheet">
 </head>
 <body>
     <div>
