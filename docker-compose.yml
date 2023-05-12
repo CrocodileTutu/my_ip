@@ -1,0 +1,17 @@
+version: '1'
+
+services:
+
+  rotary_cube:
+
+    build:
+
+      context: .
+
+      dockerfile: ./Dockerfile
+
+    image: my_ip
+
+    ports:
+
+      - 8082:80
